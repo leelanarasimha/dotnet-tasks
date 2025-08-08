@@ -35,7 +35,6 @@ string getSelectedOption()
 }
 
 
-
 int getInputNumber(int option)
 {
     var name = "Enter Second Number";
